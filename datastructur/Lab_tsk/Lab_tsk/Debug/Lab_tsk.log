@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\ahmad_000\documents\datastructur\lab_tsk\lab_tsk\source.cpp(24): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ahmad_000\documents\datastructur\lab_tsk\lab_tsk\source.cpp(31): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ahmad_000\documents\datastructur\lab_tsk\lab_tsk\source.cpp(38): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ahmad_000\documents\datastructur\lab_tsk\lab_tsk\source.cpp(45): warning C4305: '=': truncation from 'double' to 'float'
+  Lab_tsk.vcxproj -> C:\Users\ahmad_000\Documents\datastructur\Lab_tsk\Debug\Lab_tsk.exe
+  Lab_tsk.vcxproj -> C:\Users\ahmad_000\Documents\datastructur\Lab_tsk\Debug\Lab_tsk.pdb (Partial PDB)

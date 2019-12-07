@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\ahmad_000\documents\datastructur\labtask1\labtask1\source.cpp(7): warning C4018: '<': signed/unsigned mismatch
+  Labtask1.vcxproj -> C:\Users\ahmad_000\Documents\datastructur\Labtask1\Debug\Labtask1.exe
+  Labtask1.vcxproj -> C:\Users\ahmad_000\Documents\datastructur\Labtask1\Debug\Labtask1.pdb (Partial PDB)

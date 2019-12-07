@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\ahmad_000\documents\datastructur\practoice_heap\practoice_heap\source.cpp(118): warning C4101: 'num': unreferenced local variable
+  practoice_heap.vcxproj -> C:\Users\ahmad_000\Documents\datastructur\practoice_heap\Debug\practoice_heap.exe
+  practoice_heap.vcxproj -> C:\Users\ahmad_000\Documents\datastructur\practoice_heap\Debug\practoice_heap.pdb (Partial PDB)

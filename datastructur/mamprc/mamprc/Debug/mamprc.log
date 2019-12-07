@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\ahmad_000\documents\datastructur\mamprc\mamprc\source.cpp(51): warning C4018: '<': signed/unsigned mismatch
+  mamprc.vcxproj -> C:\Users\ahmad_000\Documents\datastructur\mamprc\Debug\mamprc.exe
+  mamprc.vcxproj -> C:\Users\ahmad_000\Documents\datastructur\mamprc\Debug\mamprc.pdb (Partial PDB)

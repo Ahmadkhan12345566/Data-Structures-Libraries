@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\ahmad_000\documents\datastructur\hedders\hedders\header.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  hedders.vcxproj -> C:\Users\ahmad_000\Documents\datastructur\hedders\Debug\hedders.exe
+  hedders.vcxproj -> C:\Users\ahmad_000\Documents\datastructur\hedders\Debug\hedders.pdb (Partial PDB)

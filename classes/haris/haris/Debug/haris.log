@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\ahmad_000\documents\classes\haris\haris\source.cpp(126): warning C4715: 'SpaceCheck': not all control paths return a value
+  haris.vcxproj -> C:\Users\ahmad_000\Documents\classes\haris\Debug\haris.exe
+  haris.vcxproj -> C:\Users\ahmad_000\Documents\classes\haris\Debug\haris.pdb (Partial PDB)
